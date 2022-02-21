@@ -5,7 +5,6 @@ import './App.css';
 //import store from '../src/redux/user/store'
 import A from './A';
 function App() {
-  
   return (
     <div className="App">
      <h1>Welcome to react</h1>
